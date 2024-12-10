@@ -1,7 +1,13 @@
+![image](https://github.com/user-attachments/assets/3b05808b-b3bb-4c74-847f-2ce41ad8c46d)
+
+<hr />
 
 <p align="center">
   <img src="https://github.com/lnmangione/Halite-III/blob/master/graphics/halite2p.gif">
 </p>
+
+
+
 <p align="center">
   <text>A 2 player game of Halite III</text>
 </p>
