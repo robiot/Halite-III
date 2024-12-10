@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/lnmangione/Halite-III/blob/master/graphics/halite2p.gif">
+  <img src="https://media.tenor.com/vTNxZtc3EoMAAAAM/dragonite-pokemon.gif">
 </p>
 <p align="center">
   <text>A 2 player game of Halite III</text>
